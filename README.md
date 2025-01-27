@@ -1,13 +1,10 @@
 > <h1 align="center"><b><i>Plant Disease Prediction Using Deep Learning</i></b></h1>
 
-> <h3 align="center"><b><i>Graduation Project<br>Bioinformatics Program 2023<br>Faculty of Computer and Information Science<br>Ain Shams University</i></b></h3>
+> <h3 align="center"><b><i>Graduation Project<br>Informationtechnology Program 2025<br>Department of Information Technologye<br>Sri Ramakrishna College for Women</i></b></h3>
 
 > <table align="center">
 >   <tr>
->     <td><a href="https://cisasuedu-my.sharepoint.com/:p:/g/personal/ahmed20191701016_cis_asu_edu_eg/ER7YDL-TIcJDgm290Cd85g8BovNVfrlJnLcu3vMJFdJy_g?e=JevYih"><b>Presentation</b></a></td>
->     <td><a href="https://cisasuedu-my.sharepoint.com/:w:/g/personal/youssef20191701269_cis_asu_edu_eg/EcmlTQyF6T5GhdpCrKAktrABSvzKZtgQIn0zJpFONK6KzA?e=tKyOFB"><b>Paper</b></a></td>
->     <td><a href="https://cisasuedu-my.sharepoint.com/:w:/g/personal/ahmed20191701016_cis_asu_edu_eg/EXF182HxD-hHtYXISizPpxMB_pX3yUy8ghW3Gl0_h5YDUQ?e=VSb8St"><b>Documentation</b></a></td>
->     <td><a href="https://cisasuedu-my.sharepoint.com/:p:/g/personal/ahmed20191701016_cis_asu_edu_eg/EV9JbJ6bb_NElnBmygyq0wABqyk1avAYWFjISnj5SbSWuA?e=O7v9gT"><b>Poster</b></a></td>
+>     
 >   </tr>
 > </table>
 
